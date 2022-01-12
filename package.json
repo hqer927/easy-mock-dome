@@ -14,7 +14,7 @@
     "eventproxy": "~0.3.4",
     "express": "~4.13.1",
     "less-middleware": "^2.0.1",
-    "markdown-it": "~4.4.0",
+    "markdown-it": "~12.3.2",
     "mockjs": "^0.1.10",
     "morgan": "~1.6.1",
     "multiparty": "~4.1.2",
